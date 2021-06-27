@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics | Divyam Goel</title>
+    <link>/tag/robotics/</link>
+      <atom:link href="/tag/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robotics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Robotics</title>
+      <link>/tag/robotics/</link>
+    </image>
+    
+    <item>
+      <title>Policy Gradient Methods</title>
+      <link>/project/policygradient/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/policygradient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self Driving Car</title>
+      <link>/project/selfdrivingcar/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/project/selfdrivingcar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
