@@ -1,103 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>/tag/datasets/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/natural-language-processing/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/scd-88/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tag/computer-vision/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/hyperspecae/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/project/marketingresearch/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/web-development/</loc>
+    <lastmod>2020-12-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project/policygradient/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/reinforcement-learning/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tag/robotics/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/indic-language-translation/</loc>
     <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/natural-language-processing/</loc>
-    <lastmod>2020-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/sentimentanalysis/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/nnvisualizer/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/project/selfdrivingcar/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/web-development/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/author/divyam-goel/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/publication/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/talk/</loc>
   </url>
-  
 </urlset>
