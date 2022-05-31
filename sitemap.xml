@@ -2,28 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2022-04-20T07:24:47+05:30</lastmod>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2022-05-26T07:24:47+05:30</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-04-20T07:24:47+05:30</lastmod>
+    <lastmod>2022-05-26T07:24:47+05:30</lastmod>
   </url><url>
     <loc>/author/divyam-goel/</loc>
-    <lastmod>2022-04-20T07:24:47+05:30</lastmod>
+    <lastmod>2022-05-26T07:24:47+05:30</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-04-20T07:24:47+05:30</lastmod>
+    <lastmod>2022-05-26T07:24:47+05:30</lastmod>
+  </url><url>
+    <loc>/publication/leveraging-dependency-grammar-for-fine-grained-offensive-language-detection-using-graph-convolutional-networks/</loc>
+    <lastmod>2022-05-26T07:24:47+05:30</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-05-26T07:24:47+05:30</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-05-26T07:24:47+05:30</lastmod>
+  </url><url>
+    <loc>/author/raksha-sharma/</loc>
+    <lastmod>2022-05-26T07:24:47+05:30</lastmod>
   </url><url>
     <loc>/author/fatemeh-h.-fard/</loc>
     <lastmod>2022-04-20T07:24:47+05:30</lastmod>
   </url><url>
     <loc>/publication/on-the-cross-modal-transfer-from-natural-language-to-code-through-adapter-modules/</loc>
-    <lastmod>2022-04-20T07:24:47+05:30</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-04-20T07:24:47+05:30</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2022-04-20T07:24:47+05:30</lastmod>
   </url><url>
     <loc>/author/ramansh-grover/</loc>
