@@ -5,12 +5,20 @@
     <link>/tag/computer-vision/</link>
       <atom:link href="/tag/computer-vision/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Vision</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 20 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Computer Vision</title>
       <link>/tag/computer-vision/</link>
     </image>
+    
+    <item>
+      <title>SemiNMF-Autoencoders</title>
+      <link>/project/seminmf-autoencoders/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/project/seminmf-autoencoders/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HyperspecAE</title>
