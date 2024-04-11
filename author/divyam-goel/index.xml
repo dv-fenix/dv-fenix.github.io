@@ -5,12 +5,25 @@
     <link>/author/divyam-goel/</link>
       <atom:link href="/author/divyam-goel/index.xml" rel="self" type="application/rss+xml" />
     <description>Divyam Goel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 07:24:47 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Divyam Goel</title>
       <link>/author/divyam-goel/</link>
     </image>
+    
+  </channel>
+</rss>
+hor/divyam-goel/</link>
+    </image>
+    
+    <item>
+      <title>Semi‑NMF Regularization‑Based Autoencoder Training for Hyperspectral Unmixing</title>
+      <link>/publication/seminmf-regularizationbased-autoencoder-training-for-hyperspectral-unmixing/</link>
+      <pubDate>Fri, 01 Mar 2024 07:24:47 +0530</pubDate>
+      <guid>/publication/seminmf-regularizationbased-autoencoder-training-for-hyperspectral-unmixing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Language Guided Meta Control for Embodied Instruction Following</title>
@@ -34,6 +47,25 @@
       <pubDate>Wed, 20 Apr 2022 07:24:47 +0530</pubDate>
       <guid>/publication/on-the-cross-modal-transfer-from-natural-language-to-code-through-adapter-modules/</guid>
       <description></description>
+    </item>
+    
+  </channel>
+</rss>
+ generative modeling.&lt;/p&gt;
+&lt;p&gt;At IIT Roorkee, I was a core member of a Deep Learning research centric reading group named the &lt;a href=&#34;https://vlgiitr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vision and Language Group&lt;/a&gt;, and the &lt;a href=&#34;https://ieee-iitr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Student Chapter, IIT Roorkee&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Divyam Goel</title>
+      <link>/author/divyam-goel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/author/divyam-goel/</guid>
+      <description>&lt;!-- May be too wordy, check how it looks on a small screen (shouldn&#39;t be longer than a page on an IPhone) --&gt;
+&lt;p&gt;I am a Machine Learning Engineer at &lt;a href=&#34;https://www.adobe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adobe&lt;/a&gt;, based in Bangalore. I earned my bachelor&amp;rsquo;s degree in E&amp;amp;CE from the &lt;a href=&#34;https://www.iitr.ac.in&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Indian Institute of Technology, Roorkee&lt;/a&gt;. Concurrently, I work with &lt;a href=&#34;https://angelxuanchang.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prof. Angel Xuan Chang&lt;/a&gt;, conducting research on conditional 3D scene generation at her lab in &lt;a href=&#34;https://www.sfu.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simon Fraser University&lt;/a&gt;. Previously, I contributed to the groundbreaking research at Rephrase.ai (now part of Adobe) by leveraging generative AI for human avatar technologies.&lt;/p&gt;
+&lt;p&gt;My research at the &lt;a href=&#34;https://gistvision.github.io/people.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIST Computer Vision Lab&lt;/a&gt;, which also formed the basis of my undergraduate thesis, focused on developing embodied agents for vision and language navigation. During my time at the &lt;a href=&#34;https://cmps.ok.ubc.ca&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of British Columbia&lt;/a&gt; (Summer 2021), I worked on developing efficient but accurate language models for software engineering tasks. My research interests are in computer vision and robotics, with a specialty in machine learning and (tractable) generative modeling.&lt;/p&gt;
+&lt;p&gt;At IIT Roorkee, I was a core member of a Deep Learning research centric reading group named the &lt;a href=&#34;https://vlgiitr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vision and Language Group&lt;/a&gt;, and the &lt;a href=&#34;https://ieee-iitr.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IEEE Student Chapter, IIT Roorkee&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
