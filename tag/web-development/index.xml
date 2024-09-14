@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Development | Divyam Goel</title>
-    <link>/tag/web-development/</link>
-      <atom:link href="/tag/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tag/web-development/</link>
+      <atom:link href="//localhost:1313/tag/web-development/index.xml" rel="self" type="application/rss+xml" />
     <description>Web Development</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Web Development</title>
-      <link>/tag/web-development/</link>
+      <link>//localhost:1313/tag/web-development/</link>
     </image>
     
     <item>
       <title>Customer Churn Management</title>
-      <link>/project/marketingresearch/</link>
+      <link>//localhost:1313/project/marketingresearch/</link>
       <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/project/marketingresearch/</guid>
+      <guid>//localhost:1313/project/marketingresearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NNVisualizer</title>
-      <link>/project/nnvisualizer/</link>
+      <link>//localhost:1313/project/nnvisualizer/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/project/nnvisualizer/</guid>
+      <guid>//localhost:1313/project/nnvisualizer/</guid>
       <description></description>
     </item>
     
