@@ -5,12 +5,52 @@
     <link>/author/divyam-goel/</link>
       <atom:link href="/author/divyam-goel/index.xml" rel="self" type="application/rss+xml" />
     <description>Divyam Goel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 07:24:47 +0530</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Divyam Goel</title>
       <link>/author/divyam-goel/</link>
     </image>
+    
+    <item>
+      <title>Geometric Red-Teaming for Robotic Manipulation</title>
+      <link>/publication/geometric-red-teaming-for-robotic-manipulation/</link>
+      <pubDate>Fri, 01 Aug 2025 07:24:47 +0530</pubDate>
+      <guid>/publication/geometric-red-teaming-for-robotic-manipulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi‑NMF Regularization‑Based Autoencoder Training for Hyperspectral Unmixing</title>
+      <link>/publication/seminmf-regularizationbased-autoencoder-training-for-hyperspectral-unmixing/</link>
+      <pubDate>Fri, 01 Mar 2024 07:24:47 +0530</pubDate>
+      <guid>/publication/seminmf-regularizationbased-autoencoder-training-for-hyperspectral-unmixing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Guided Meta Control for Embodied Instruction Following</title>
+      <link>/publication/language-guided-meta-control-for-embpdied-instruction-following/</link>
+      <pubDate>Thu, 26 May 2022 07:24:47 +0530</pubDate>
+      <guid>/publication/language-guided-meta-control-for-embpdied-instruction-following/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Dependency Grammar for Fine-Grained Offensive Language Detection using Graph Convolutional Networks</title>
+      <link>/publication/leveraging-dependency-grammar-for-fine-grained-offensive-language-detection-using-graph-convolutional-networks/</link>
+      <pubDate>Thu, 26 May 2022 07:24:47 +0530</pubDate>
+      <guid>/publication/leveraging-dependency-grammar-for-fine-grained-offensive-language-detection-using-graph-convolutional-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Cross Modal Transfer From Natural Language to Code Through Adapter Modules</title>
+      <link>/publication/on-the-cross-modal-transfer-from-natural-language-to-code-through-adapter-modules/</link>
+      <pubDate>Wed, 20 Apr 2022 07:24:47 +0530</pubDate>
+      <guid>/publication/on-the-cross-modal-transfer-from-natural-language-to-code-through-adapter-modules/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
