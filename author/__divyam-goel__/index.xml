@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>__Divyam Goel__ | Divyam Goel</title>
+    <link>//localhost:1313/author/__divyam-goel__/</link>
+      <atom:link href="//localhost:1313/author/__divyam-goel__/index.xml" rel="self" type="application/rss+xml" />
+    <description>__Divyam Goel__</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 07:24:46 +0530</lastBuildDate>
+    <image>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>__Divyam Goel__</title>
+      <link>//localhost:1313/author/__divyam-goel__/</link>
+    </image>
+    
+    <item>
+      <title>SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis</title>
+      <link>//localhost:1313/publication/semlayoutdiff-semantic-layout-generation-with-diffusion-model-for-indoor-scene-synthesis/</link>
+      <pubDate>Fri, 01 Aug 2025 07:24:46 +0530</pubDate>
+      <guid>//localhost:1313/publication/semlayoutdiff-semantic-layout-generation-with-diffusion-model-for-indoor-scene-synthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
