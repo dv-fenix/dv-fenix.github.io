@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Saurabh Khanna | Divyam Goel</title>
-    <link>/author/saurabh-khanna/</link>
-      <atom:link href="/author/saurabh-khanna/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/author/saurabh-khanna/</link>
+      <atom:link href="//localhost:1313/author/saurabh-khanna/index.xml" rel="self" type="application/rss+xml" />
     <description>Saurabh Khanna</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 07:24:47 +0530</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Saurabh Khanna</title>
-      <link>/author/saurabh-khanna/</link>
+      <link>//localhost:1313/author/saurabh-khanna/</link>
     </image>
     
     <item>
       <title>Semi‑NMF Regularization‑Based Autoencoder Training for Hyperspectral Unmixing</title>
-      <link>/publication/seminmf-regularizationbased-autoencoder-training-for-hyperspectral-unmixing/</link>
+      <link>//localhost:1313/publication/seminmf-regularizationbased-autoencoder-training-for-hyperspectral-unmixing/</link>
       <pubDate>Fri, 01 Mar 2024 07:24:47 +0530</pubDate>
-      <guid>/publication/seminmf-regularizationbased-autoencoder-training-for-hyperspectral-unmixing/</guid>
+      <guid>//localhost:1313/publication/seminmf-regularizationbased-autoencoder-training-for-hyperspectral-unmixing/</guid>
       <description></description>
     </item>
     

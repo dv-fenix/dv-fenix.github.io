@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yufei Wang | Divyam Goel</title>
-    <link>/author/yufei-wang/</link>
-      <atom:link href="/author/yufei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/author/yufei-wang/</link>
+      <atom:link href="//localhost:1313/author/yufei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yufei Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 07:24:47 +0530</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Yufei Wang</title>
-      <link>/author/yufei-wang/</link>
+      <link>//localhost:1313/author/yufei-wang/</link>
     </image>
     
     <item>
       <title>Geometric Red-Teaming for Robotic Manipulation</title>
-      <link>/publication/geometric-red-teaming-for-robotic-manipulation/</link>
+      <link>//localhost:1313/publication/geometric-red-teaming-for-robotic-manipulation/</link>
       <pubDate>Fri, 01 Aug 2025 07:24:47 +0530</pubDate>
-      <guid>/publication/geometric-red-teaming-for-robotic-manipulation/</guid>
+      <guid>//localhost:1313/publication/geometric-red-teaming-for-robotic-manipulation/</guid>
       <description></description>
     </item>
     

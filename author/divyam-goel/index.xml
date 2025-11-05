@@ -2,32 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Divyam Goel</title>
-    <link>/author/divyam-goel/</link>
-      <atom:link href="/author/divyam-goel/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/author/divyam-goel/</link>
+      <atom:link href="//localhost:1313/author/divyam-goel/index.xml" rel="self" type="application/rss+xml" />
     <description>Divyam Goel</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 07:24:47 +0530</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Divyam Goel</title>
-      <link>/author/divyam-goel/</link>
+      <link>//localhost:1313/author/divyam-goel/</link>
     </image>
     
     <item>
-      <title>Divyam Goel</title>
-      <link>/author/divyam-goel/</link>
+      <title>Geometric Red-Teaming for Robotic Manipulation</title>
+      <link>//localhost:1313/publication/geometric-red-teaming-for-robotic-manipulation/</link>
       <pubDate>Fri, 01 Aug 2025 07:24:47 +0530</pubDate>
-      <guid>/author/divyam-goel/</guid>
-      <description>&lt;p&gt;Hi! I am a second year MS in Robotics student at &lt;a href=&#34;https://www.ri.cmu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotics Institute, Carnegie Mellon University&lt;/a&gt;. I am fortunate to be co-advised by Prof. &lt;a href=&#34;https://zackory.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zackory Erickson&lt;/a&gt; and Prof. &lt;a href=&#34;http://davheld.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Held&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Prior to coming to CMU, I spent two wonderful years working on text-to-video generation models at &lt;a href=&#34;https://www.adobe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adobe&lt;/a&gt; and &lt;a href=&#34;https://www.rephrase.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rephrase.ai&lt;/a&gt; (now part of Adobe). Concurrently, I was a research assistant at the 3D Language Group at SFU working with Prof. &lt;a href=&#34;https://angelxuanchang.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Angel Chang&lt;/a&gt;. Even earlier, I received a B.Tech in E&amp;amp;CE from &lt;a href=&#34;https://www.iitr.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IIT Roorkee&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;My research focuses on robot manipulation, policy evaluation, and geometry-aware methods for perception and control.&lt;/p&gt;
-</description>
+      <guid>//localhost:1313/publication/geometric-red-teaming-for-robotic-manipulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SemLayoutDiff: Semantic Layout Generation with Diffusion Model for Indoor Scene Synthesis</title>
+      <link>//localhost:1313/publication/semlayoutdiff-semantic-layout-generation-with-diffusion-model-for-indoor-scene-synthesis/</link>
+      <pubDate>Fri, 01 Aug 2025 07:24:46 +0530</pubDate>
+      <guid>//localhost:1313/publication/semlayoutdiff-semantic-layout-generation-with-diffusion-model-for-indoor-scene-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi‑NMF Regularization‑Based Autoencoder Training for Hyperspectral Unmixing</title>
+      <link>//localhost:1313/publication/seminmf-regularizationbased-autoencoder-training-for-hyperspectral-unmixing/</link>
+      <pubDate>Fri, 01 Mar 2024 07:24:47 +0530</pubDate>
+      <guid>//localhost:1313/publication/seminmf-regularizationbased-autoencoder-training-for-hyperspectral-unmixing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language Guided Meta Control for Embodied Instruction Following</title>
+      <link>//localhost:1313/publication/language-guided-meta-control-for-embpdied-instruction-following/</link>
+      <pubDate>Thu, 26 May 2022 07:24:47 +0530</pubDate>
+      <guid>//localhost:1313/publication/language-guided-meta-control-for-embpdied-instruction-following/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Dependency Grammar for Fine-Grained Offensive Language Detection using Graph Convolutional Networks</title>
+      <link>//localhost:1313/publication/leveraging-dependency-grammar-for-fine-grained-offensive-language-detection-using-graph-convolutional-networks/</link>
+      <pubDate>Thu, 26 May 2022 07:24:47 +0530</pubDate>
+      <guid>//localhost:1313/publication/leveraging-dependency-grammar-for-fine-grained-offensive-language-detection-using-graph-convolutional-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Cross Modal Transfer From Natural Language to Code Through Adapter Modules</title>
+      <link>//localhost:1313/publication/on-the-cross-modal-transfer-from-natural-language-to-code-through-adapter-modules/</link>
+      <pubDate>Wed, 20 Apr 2022 07:24:47 +0530</pubDate>
+      <guid>//localhost:1313/publication/on-the-cross-modal-transfer-from-natural-language-to-code-through-adapter-modules/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Divyam Goel</title>
-      <link>/author/divyam-goel/</link>
+      <link>//localhost:1313/author/divyam-goel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/divyam-goel/</guid>
+      <guid>//localhost:1313/author/divyam-goel/</guid>
       <description>&lt;p&gt;Hi! I am a second year MS in Robotics student at &lt;a href=&#34;https://www.ri.cmu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robotics Institute, Carnegie Mellon University&lt;/a&gt;. I am fortunate to be co-advised by Prof. &lt;a href=&#34;https://zackory.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zackory Erickson&lt;/a&gt; and Prof. &lt;a href=&#34;http://davheld.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Held&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Prior to coming to CMU, I spent two wonderful years working on text-to-video generation models at &lt;a href=&#34;https://www.adobe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adobe&lt;/a&gt; and &lt;a href=&#34;https://www.rephrase.ai/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rephrase.ai&lt;/a&gt; (now part of Adobe). Concurrently, I was a research assistant at the 3D Language Group at SFU working with Prof. &lt;a href=&#34;https://angelxuanchang.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Angel Chang&lt;/a&gt;. Even earlier, I received a B.Tech in E&amp;amp;CE from &lt;a href=&#34;https://www.iitr.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IIT Roorkee&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My research focuses on robot manipulation, policy evaluation, and geometry-aware methods for perception and control.&lt;/p&gt;

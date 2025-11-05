@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Divyam Goel</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/project/</link>
+      <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 20 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>//localhost:1313/project/</link>
     </image>
     
     <item>
       <title>SemiNMF-Autoencoders</title>
-      <link>/project/seminmf-autoencoders/</link>
+      <link>//localhost:1313/project/seminmf-autoencoders/</link>
       <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>/project/seminmf-autoencoders/</guid>
+      <guid>//localhost:1313/project/seminmf-autoencoders/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Super Code Clone Detection - 88</title>
-      <link>/project/scd-88/</link>
+      <link>//localhost:1313/project/scd-88/</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/project/scd-88/</guid>
+      <guid>//localhost:1313/project/scd-88/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HyperspecAE</title>
-      <link>/project/hyperspecae/</link>
+      <link>//localhost:1313/project/hyperspecae/</link>
       <pubDate>Sat, 20 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/project/hyperspecae/</guid>
+      <guid>//localhost:1313/project/hyperspecae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Policy Gradient Methods</title>
-      <link>/project/policygradient/</link>
+      <link>//localhost:1313/project/policygradient/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/project/policygradient/</guid>
+      <guid>//localhost:1313/project/policygradient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Self Driving Car</title>
-      <link>/project/selfdrivingcar/</link>
+      <link>//localhost:1313/project/selfdrivingcar/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/project/selfdrivingcar/</guid>
+      <guid>//localhost:1313/project/selfdrivingcar/</guid>
       <description></description>
     </item>
     
