@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Datasets | Divyam Goel</title>
-    <link>//localhost:1313/tag/datasets/</link>
-      <atom:link href="//localhost:1313/tag/datasets/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/datasets/</link>
+      <atom:link href="/tag/datasets/index.xml" rel="self" type="application/rss+xml" />
     <description>Datasets</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Datasets</title>
-      <link>//localhost:1313/tag/datasets/</link>
+      <link>/tag/datasets/</link>
     </image>
     
     <item>
       <title>Super Code Clone Detection - 88</title>
-      <link>//localhost:1313/project/scd-88/</link>
+      <link>/project/scd-88/</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/scd-88/</guid>
+      <guid>/project/scd-88/</guid>
       <description></description>
     </item>
     

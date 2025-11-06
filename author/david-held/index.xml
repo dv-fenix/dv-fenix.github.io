@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Held* | Divyam Goel</title>
-    <link>//localhost:1313/author/david-held/</link>
-      <atom:link href="//localhost:1313/author/david-held/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/david-held/</link>
+      <atom:link href="/author/david-held/index.xml" rel="self" type="application/rss+xml" />
     <description>David Held*</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 07:24:47 +0530</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>David Held*</title>
-      <link>//localhost:1313/author/david-held/</link>
+      <link>/author/david-held/</link>
     </image>
     
     <item>
       <title>Geometric Red-Teaming for Robotic Manipulation</title>
-      <link>//localhost:1313/publication/geometric-red-teaming-for-robotic-manipulation/</link>
+      <link>/publication/geometric-red-teaming-for-robotic-manipulation/</link>
       <pubDate>Fri, 01 Aug 2025 07:24:47 +0530</pubDate>
-      <guid>//localhost:1313/publication/geometric-red-teaming-for-robotic-manipulation/</guid>
+      <guid>/publication/geometric-red-teaming-for-robotic-manipulation/</guid>
       <description></description>
     </item>
     

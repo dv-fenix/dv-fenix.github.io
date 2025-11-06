@@ -2,128 +2,128 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/publication-type/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/david-held/</loc>
+    <loc>/author/david-held/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/divyam-goel/</loc>
+    <loc>/author/divyam-goel/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/geometric-red-teaming-for-robotic-manipulation/</loc>
+    <loc>/publication/geometric-red-teaming-for-robotic-manipulation/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/helen-qiao/</loc>
+    <loc>/author/helen-qiao/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/pavel-piliptchak/</loc>
+    <loc>/author/pavel-piliptchak/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/tiancheng-wu/</loc>
+    <loc>/author/tiancheng-wu/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/yufei-wang/</loc>
+    <loc>/author/yufei-wang/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/zackory-erickson/</loc>
+    <loc>/author/zackory-erickson/</loc>
     <lastmod>2025-08-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/angel-x.-chang/</loc>
+    <loc>/author/angel-x.-chang/</loc>
     <lastmod>2025-08-01T07:24:46+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/semlayoutdiff-semantic-layout-generation-with-diffusion-model-for-indoor-scene-synthesis/</loc>
+    <loc>/publication/semlayoutdiff-semantic-layout-generation-with-diffusion-model-for-indoor-scene-synthesis/</loc>
     <lastmod>2025-08-01T07:24:46+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/xiahao-sun/</loc>
+    <loc>/author/xiahao-sun/</loc>
     <lastmod>2025-08-01T07:24:46+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/saurabh-khanna/</loc>
+    <loc>/author/saurabh-khanna/</loc>
     <lastmod>2024-03-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/seminmf-regularizationbased-autoencoder-training-for-hyperspectral-unmixing/</loc>
+    <loc>/publication/seminmf-regularizationbased-autoencoder-training-for-hyperspectral-unmixing/</loc>
     <lastmod>2024-03-01T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/jonghyun-choi/</loc>
+    <loc>/author/jonghyun-choi/</loc>
     <lastmod>2022-05-26T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/kunal-pratap-singh/</loc>
+    <loc>/author/kunal-pratap-singh/</loc>
     <lastmod>2022-05-26T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/language-guided-meta-control-for-embpdied-instruction-following/</loc>
+    <loc>/publication/language-guided-meta-control-for-embpdied-instruction-following/</loc>
     <lastmod>2022-05-26T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/leveraging-dependency-grammar-for-fine-grained-offensive-language-detection-using-graph-convolutional-networks/</loc>
+    <loc>/publication/leveraging-dependency-grammar-for-fine-grained-offensive-language-detection-using-graph-convolutional-networks/</loc>
     <lastmod>2022-05-26T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/raksha-sharma/</loc>
+    <loc>/author/raksha-sharma/</loc>
     <lastmod>2022-05-26T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/fatemeh-h.-fard/</loc>
+    <loc>/author/fatemeh-h.-fard/</loc>
     <lastmod>2022-04-20T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/publication/on-the-cross-modal-transfer-from-natural-language-to-code-through-adapter-modules/</loc>
+    <loc>/publication/on-the-cross-modal-transfer-from-natural-language-to-code-through-adapter-modules/</loc>
     <lastmod>2022-04-20T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/author/ramansh-grover/</loc>
+    <loc>/author/ramansh-grover/</loc>
     <lastmod>2022-04-20T07:24:47+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tag/computer-vision/</loc>
+    <loc>/tag/computer-vision/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/seminmf-autoencoders/</loc>
+    <loc>/project/seminmf-autoencoders/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2022-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tag/datasets/</loc>
+    <loc>/tag/datasets/</loc>
     <lastmod>2021-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tag/natural-language-processing/</loc>
+    <loc>/tag/natural-language-processing/</loc>
     <lastmod>2021-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/scd-88/</loc>
+    <loc>/project/scd-88/</loc>
     <lastmod>2021-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/hyperspecae/</loc>
+    <loc>/project/hyperspecae/</loc>
     <lastmod>2021-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/policygradient/</loc>
+    <loc>/project/policygradient/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tag/reinforcement-learning/</loc>
+    <loc>/tag/reinforcement-learning/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tag/robotics/</loc>
+    <loc>/tag/robotics/</loc>
     <lastmod>2020-08-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/project/selfdrivingcar/</loc>
+    <loc>/project/selfdrivingcar/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/author/divyam-goel/</loc>
+    <loc>/author/divyam-goel/</loc>
   </url><url>
-    <loc>//localhost:1313/author/divyam-goel/</loc>
+    <loc>/author/divyam-goel/</loc>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>/post/</loc>
   </url><url>
-    <loc>//localhost:1313/talk/</loc>
+    <loc>/talk/</loc>
   </url>
 </urlset>

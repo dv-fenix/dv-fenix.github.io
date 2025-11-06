@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tiancheng Wu | Divyam Goel</title>
-    <link>//localhost:1313/author/tiancheng-wu/</link>
-      <atom:link href="//localhost:1313/author/tiancheng-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/tiancheng-wu/</link>
+      <atom:link href="/author/tiancheng-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Tiancheng Wu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 07:24:47 +0530</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Tiancheng Wu</title>
-      <link>//localhost:1313/author/tiancheng-wu/</link>
+      <link>/author/tiancheng-wu/</link>
     </image>
     
     <item>
       <title>Geometric Red-Teaming for Robotic Manipulation</title>
-      <link>//localhost:1313/publication/geometric-red-teaming-for-robotic-manipulation/</link>
+      <link>/publication/geometric-red-teaming-for-robotic-manipulation/</link>
       <pubDate>Fri, 01 Aug 2025 07:24:47 +0530</pubDate>
-      <guid>//localhost:1313/publication/geometric-red-teaming-for-robotic-manipulation/</guid>
+      <guid>/publication/geometric-red-teaming-for-robotic-manipulation/</guid>
       <description></description>
     </item>
     

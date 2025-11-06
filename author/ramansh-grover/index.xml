@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ramansh Grover | Divyam Goel</title>
-    <link>//localhost:1313/author/ramansh-grover/</link>
-      <atom:link href="//localhost:1313/author/ramansh-grover/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/ramansh-grover/</link>
+      <atom:link href="/author/ramansh-grover/index.xml" rel="self" type="application/rss+xml" />
     <description>Ramansh Grover</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2022 07:24:47 +0530</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ramansh Grover</title>
-      <link>//localhost:1313/author/ramansh-grover/</link>
+      <link>/author/ramansh-grover/</link>
     </image>
     
     <item>
       <title>On the Cross Modal Transfer From Natural Language to Code Through Adapter Modules</title>
-      <link>//localhost:1313/publication/on-the-cross-modal-transfer-from-natural-language-to-code-through-adapter-modules/</link>
+      <link>/publication/on-the-cross-modal-transfer-from-natural-language-to-code-through-adapter-modules/</link>
       <pubDate>Wed, 20 Apr 2022 07:24:47 +0530</pubDate>
-      <guid>//localhost:1313/publication/on-the-cross-modal-transfer-from-natural-language-to-code-through-adapter-modules/</guid>
+      <guid>/publication/on-the-cross-modal-transfer-from-natural-language-to-code-through-adapter-modules/</guid>
       <description></description>
     </item>
     
